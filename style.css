@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+header {
+  text-align: center;
+}
+
+header img {
+  width: 100px;
+}
+
+h1 {
+  font-family: 'Lilita One', cursive;
+  font-size: 48px;
+  margin: 0px;
+  color: #E96479;
+  text-decoration: underline
+}
+
+h2{
+  font-family: arial;
+  color: #4D455D;
+}
+
+section{
+  text-align: center;
+}
+section img {
+  width: 400px;
+}
+
+section a {
+  background-color: #7DB9B6;
+  border-width: 3px;
+  border-color: blue;
+  border-style: solid;
+  border-radius: 4px;
+  padding: 7px
+}
